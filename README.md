@@ -72,5 +72,3 @@ RBMs and their variants have applications in:
 
 ---
 
-## 📁 Repository Structure
-
