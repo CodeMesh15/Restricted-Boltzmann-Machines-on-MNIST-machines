@@ -1,4 +1,4 @@
-#MNIST Experiments with Energy-Based Models
+
 This repository contains a series of experiments on the MNIST dataset using various energy-based models, implemented and analyzed in a Jupyter Notebook.
 
 🧠 Models Implemented
